@@ -1,0 +1,20 @@
+.table {
+  border: 2px solid #00AEEF;
+}
+
+.DataTable{
+    width: 1169px !important;
+    margin: auto;
+    border-radius: 11.69px !important;
+    text-align: center;
+}
+
+.table th,
+.table td {
+  vertical-align: middle;
+}
+
+.table thead th:first-child,
+.table tbody td:first-child {
+  width: 40px;
+}
